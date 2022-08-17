@@ -1,0 +1,45 @@
+#heading
+{
+    background-color: beige;
+    padding: 10px;
+}
+#heading a{
+    display: inline;
+    overflow: hidden;
+    padding: 10px;
+    background-color: aqua;
+	text-decoration: none;
+}
+#heading #home
+{
+    background-color: orange;
+}
+h2{
+    background-color: aquamarine;
+    padding:20px;
+    margin:0px;
+}
+canvas
+{
+    background-color: white;
+}
+li
+{
+    text-align: left;
+}
+
+.leaderboard_table{
+	border : thick solid;
+	width : 60vw;
+}
+.leaderboard_table td{
+	border : thick solid;
+	text-align:center;
+	background-color: white;
+}
+
+.leaderboard_table tr.header td{
+	background-color: lightgreen;
+	font-weight: bold;
+	font-size:medium;
+}
